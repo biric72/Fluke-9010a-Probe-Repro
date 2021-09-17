@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31mm"
+   height="5mm"
+   viewBox="0 0 31 5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="Decal001.svg"
+   inkscape:export-filename="/Users/coma/Desktop/KiCAD/Fluke 9010a Probe/Fluke 9010a Probe/Decal001.png"
+   inkscape:export-xdpi="800"
+   inkscape:export-ydpi="800"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="31mm"
+     inkscape:zoom="13.551913"
+     inkscape:cx="21.694354"
+     inkscape:cy="10.810282"
+     inkscape:window-width="1227"
+     inkscape:window-height="715"
+     inkscape:window-x="37"
+     inkscape:window-y="67"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient896"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1;"
+         offset="0"
+         id="stop894" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Ebene 2">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.340563;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect54496"
+         width="30.544144"
+         height="4.6008854"
+         x="0.21167527"
+         y="0.2019531"
+         ry="0.68832141" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#e3e3e3;stroke-width:0.253731;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect77"
+       width="9.6959696"
+       height="2.6594822"
+       x="1.1497904"
+       y="0.62197429" />
+    <path
+       style="fill:#e3e3e3;fill-opacity:1;stroke:#e3e3e3;stroke-width:0.242826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.012278,3.7342448 h 9.968008"
+       id="path13372" />
+    <path
+       style="fill:#e3e3e3;fill-opacity:1;stroke:#e3e3e3;stroke-width:0.242632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.012278,4.2112581 h 9.952027"
+       id="path13372-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#e3e3e3;fill-opacity:1;stroke-width:0.264583"
+       x="1.4043198"
+       y="2.9846544"
+       id="text22717"><tspan
+         sodipodi:role="line"
+         id="tspan22715"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';fill:#e3e3e3;fill-opacity:1;stroke-width:0.264583"
+         x="1.4043198"
+         y="2.9846544"
+         dy="0"
+         rotate="0 0 0 0 0 0">FLUKE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;line-height:1;font-family:sans-serif;letter-spacing:0px;fill:#e3e3e3;fill-opacity:1;stroke-width:0.264583"
+       x="11.673207"
+       y="1.9856488"
+       id="text45986"><tspan
+         sodipodi:role="line"
+         id="tspan45984"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.76389px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';fill:#e3e3e3;fill-opacity:1;stroke-width:0.264583"
+         x="11.673207"
+         y="1.9856488"
+         dx="0"
+         dy="0"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0">9000A PROBE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.76389px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue Medium';fill:#e3e3e3;fill-opacity:1;stroke-width:0.264583"
+         x="11.673207"
+         y="3.8035526"
+         id="tspan45988"
+         rotate="0 0 0 0 0 0 0 0">30V MAX</tspan></text>
+  </g>
+</svg>

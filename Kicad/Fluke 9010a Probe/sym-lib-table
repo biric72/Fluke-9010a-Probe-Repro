@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name probeconn)(type Legacy)(uri ${KIPRJMOD}/symbols/probeconn.lib)(options "")(descr ""))
+)
