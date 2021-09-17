@@ -22,4 +22,3 @@ I will try to keep the file available for a couple of weeks at least. I cannot p
 Of course I cannot be responsible  for any damage you do to yourself or your fluke; however, I have built 2 probes and they seem to work flawlessly. Also I won’t be able to offer much support because of the usual ‚time is sparse‘- thing.
 
 Have fun 
-Mirko
