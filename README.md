@@ -1,11 +1,9 @@
   # Fluke-9010a-Probe-Repro-Package
  Fluke 9000A Probe Repro Project for the 9010A Microsystem Troubleshooter
 
-New Project. Yes I know, this is getting out of hands…;)
+Since these have become virtually unobtainable, I decided to try my best to make a repro which is as close as possible to the original’s physical appearance and electrical layout.
 
-However, it always bugged me not to have an original Fluke 9000A Probe for the 9010A. Since these have become virtually unobtainable, I decided to try my best to make a repro which is as close as possible to the original’s physical appearance and electrical layout.
-
-So here we are:
+This project includes
 
 - Gerber archive to order the PCB’s with your manufacturer of choice
 - The KiCAD files of the board if you want to make any changes
@@ -17,8 +15,4 @@ So here we are:
 
 To complete the build you will need moderate SMD soldering and general tinkering skills as well as a bit of patience.
 
-I will try to keep the file available for a couple of weeks at least. I cannot post them directly on the forum as the archive would be too large. Feel free to do whatever you like with them except selling.
-
-Of course I cannot be responsible  for any damage you do to yourself or your fluke; however, I have built 2 probes and they seem to work flawlessly. Also I won’t be able to offer much support because of the usual ‚time is sparse‘- thing.
-
-Have fun 
+Of course I cannot be responsible  for any damage you do to yourself or your fluke mainframe; however, I have built 2 probes and they seem to work flawlessly.
