@@ -13,6 +13,6 @@ This project includes
     - I printed the case with black PLA, the windows with clear/natural PLA and the cable guide with flexible TPU which worked quite well. 
 - A build manual which includes a BOM and part numbers for DigiKey.
 
-To complete the build you will need moderate SMD soldering and general tinkering skills as well as a bit of patience.
+To complete the build you will need moderate SMD soldering and tinkering skills as well as a bit of patience.
 
 Of course I cannot be responsible  for any damage you do to yourself or your fluke mainframe; however, I have built 2 probes and they seem to work flawlessly.
