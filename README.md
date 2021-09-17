@@ -7,7 +7,6 @@ However, it always bugged me not to have an original Fluke 9000A Probe for the 9
 
 So here we are:
 
-This is a link to my dropbox, on which you should be able to download all the files:
 - Gerber archive to order the PCB’s with your manufacturer of choice
 - The KiCAD files of the board if you want to make any changes
 - Freecad file of the probe’s case:
