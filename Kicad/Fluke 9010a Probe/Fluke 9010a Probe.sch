@@ -10,7 +10,7 @@ Rev "1.2"
 Comp ""
 Comment1 ""
 Comment2 ""
-Comment3 "M. Biry"
+Comment3 "Zubline"
 Comment4 ""
 $EndDescr
 $Bitmap
@@ -1233,7 +1233,7 @@ U 1 1 612698D0
 P 8850 2500
 F 0 "TP1" H 9002 2601 50  0000 L CNN
 F 1 "Probe Tip" H 9250 2600 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" H 9050 2500 50  0001 C CNN
+F 2 "TestPoint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm" H 9050 2500 50  0001 C CNN
 F 3 "~" H 9050 2500 50  0001 C CNN
 	1    8850 2500
 	1    0    0    -1  

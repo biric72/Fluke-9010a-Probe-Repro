@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"Zubline_very_very_small";1;"LOGO";;;
+2;"Tip";"TestPoint_THTPad_4.0x4.0mm_Drill2.0mm";1;"Probe Tip";;;
+3;"A7";"FlukeProbe_9Pin_3";1;"ProbeConn";;;
+4;"CR2,CR1";"D_1806_4516Metric";2;"1N4448";;;
+5;"C1";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"33 pF 100V";;;
+6;"C2,C3";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;".39uF 50V";;;
+7;"D1(Green)";"LED_D3.0mm";1;"GRN";;;
+8;"D2(Red)";"LED_D3.0mm";1;"RED";;;
+9;"Q1";"SOT-23_Handsoldering";1;"MMBT3906";;;
+10;"Q2";"SOT-23_Handsoldering";1;"MMBT3904";;;
+11;"R1";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"205K 1%";;;
+12;"R2";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"220R";;;
+13;"R3";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"100K 1%";;;
+14;"R4";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"68K 1/8W";;;
+15;"R5,R6";"D_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"330R";;;
